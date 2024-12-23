@@ -1,0 +1,383 @@
+"local_date","utc_date","all_data","utc_time","departure_datetime","date","utc_date.y","cloudcover"
+"27 June 2024",2024-06-28,"OldTunnel Congress(30% of the colony flew 14 miles SE – 42% of those went to altitude) Ney 2:24","2:24",2024-06-28 02:24:00,2024-06-28,"2024-06-28",12.7
+"26 June 2024",2024-06-27,"Congress(54% of the colony flew 22 miles SE) FosterRd 2:22","2:22",2024-06-27 02:22:00,2024-06-27,"2024-06-27",18.7
+"25 June 2024",2024-06-26,"OldTunnel Congress(~27% of the colony flew 18 miles ESE) 2:26","2:26",2024-06-26 02:26:00,2024-06-26,"2024-06-26",36.1
+"24 June 2024",2024-06-25,"Congress(45% of the colony flew 16 miles SE – 30% flew to altitude) Dittmar Onion 2:26","2:26",2024-06-25 02:26:00,2024-06-25,"2024-06-25",43.1
+"23 June 2024",2024-06-24,"DavisBlowout Congress(97% of the colony flew 16 miles SSE) Onion Ney GrapeCreek 2:20","2:20",2024-06-24 02:20:00,2024-06-24,"2024-06-24",32.2
+"22 June 2024",2024-06-23,"Huber Congress(~59% of the colony flew 14 miles SE – ~15%n to altitude) 2:18","2:18",2024-06-23 02:18:00,2024-06-23,"2024-06-23",6.6
+"21 June 2024",2024-06-22,"Congress Dittmar BeeCavePark 2:22","2:22",2024-06-22 02:22:00,2024-06-22,"2024-06-22",37.4
+"20 June 2024",2024-06-21,"Congress 2:24","2:24",2024-06-21 02:24:00,2024-06-21,"2024-06-21",51.4
+"18 June 2024",2024-06-19,"Congress Dittmar 2:34","2:34",2024-06-19 02:34:00,2024-06-19,"2024-06-19",84.9
+"17 June 2024",2024-06-18,"DavisBlowout Huber Congress 2:28","2:28",2024-06-18 02:28:00,2024-06-18,"2024-06-18",50
+"16 June 2024",2024-06-17,"Congress 2:34","2:34",2024-06-17 02:34:00,2024-06-17,"2024-06-17",63.3
+"15 June 2024",2024-06-16,"Congress 2:46","2:46",2024-06-16 02:46:00,2024-06-16,"2024-06-16",40
+"14 June 2024",2024-06-15,"Congress 2:28","2:28",2024-06-15 02:28:00,2024-06-15,"2024-06-15",41.2
+"13 June 2024",2024-06-14,"Congress(~33% of th colony flew 14 miles S) Ney 2:34","2:34",2024-06-14 02:34:00,2024-06-14,"2024-06-14",26.7
+"12 June 2024",2024-06-13,"Congress(~39% of the colony flew 8 miiles SSW) 2:38","2:38",2024-06-13 02:38:00,2024-06-13,"2024-06-13",37.7
+"11 June 2024",2024-06-12,"Congress Rucker 2:12","2:12",2024-06-12 02:12:00,2024-06-12,"2024-06-12",70.5
+"10 June 2024",2024-06-11,"JamesRiver Congress 2:12","2:12",2024-06-11 02:12:00,2024-06-11,"2024-06-11",45.9
+"9 June 2024",2024-06-10,"Congress 2:24","2:24",2024-06-10 02:24:00,2024-06-10,"2024-06-10",53.5
+"8 June 2024",2024-06-09,"Congress 2:40","2:40",2024-06-09 02:40:00,2024-06-09,"2024-06-09",32.9
+"7 June 2024",2024-06-08,"DavisBlowout Congress(only ~11% flew a few miles NNE) Vanderpool enveloped by Frio 2:20","2:20",2024-06-08 02:20:00,2024-06-08,"2024-06-08",7.6
+"6 June 2024",2024-06-07,"OldTunnel DavisBlowout Huber Congress Dittmar Wimberley 2:20","2:20",2024-06-07 02:20:00,2024-06-07,"2024-06-07",2.8
+"5 June 2024",2024-06-06,"Congress Ney 2:16","2:16",2024-06-06 02:16:00,2024-06-06,"2024-06-06",6.1
+"4 June 2024",2024-06-05,"Congress 2:30","2:30",2024-06-05 02:30:00,2024-06-05,"2024-06-05",57.9
+"3 June 2024",2024-06-04,"Congress(only ~4% of the colony flew 6 miles NNE) 2:48","2:48",2024-06-04 02:48:00,2024-06-04,"2024-06-04",61.5
+"2 June 2024",2024-06-03,"Congress(~6% of the colony flew a few miles W) 2:56","2:56",2024-06-03 02:56:00,2024-06-03,"2024-06-03",85.3
+"1 June 2024",2024-06-02,"Congress(~21% of the colony flew 6 miles SE) 2:24","2:24",2024-06-02 02:24:00,2024-06-02,"2024-06-02",64.2
+"31 May 2024",2024-06-01,"Congress(~32% flew 6 miles E) NuecesRR SmythCrossing Fern 2:18","2:18",2024-06-01 02:18:00,2024-06-01,"2024-06-01",48.1
+"30 May 2024",2024-05-31,"Congress~5% of the colony flew NW 4 miles ~1/2 hr after the storm) 2:12","2:12",2024-05-31 02:12:00,2024-05-31,"2024-05-31",62.5
+"29 May 2024",2024-05-30,"Congress(~30% of the colony flew ~36% to altitude) Ney D’Hanis 2:20","2:20",2024-05-30 02:20:00,2024-05-30,"2024-05-30",77.8
+"27 May 2024",2024-05-28,"Congress 2:48","2:48",2024-05-28 02:48:00,2024-05-28,"2024-05-28",54.7
+"26 May 2024",2024-05-07,"Congress 2:30","2:30",2024-05-07 02:30:00,2024-05-07,"2024-05-07",67.8
+"25 May 2024",2024-05-26,"Congress 3:32 some bats flew after the crowd left","3:32",2024-05-26 03:32:00,2024-05-26,"2024-05-26",62
+"24 May 2024",2024-05-25,"Congress(~9% few a few miles E&NW) 2:38","2:38",2024-05-25 02:38:00,2024-05-25,"2024-05-25",45.9
+"21 May 2024",2024-05-22,"McNeil Congress 2:56","2:56",2024-05-22 02:56:00,2024-05-22,"2024-05-22",80.4
+"20 May 2024",2024-05-21,"Congress Frio Stuart Fern 1:50","1:50",2024-05-21 01:50:00,2024-05-21,"2024-05-21",64.6
+"20 May 2024",2024-05-21,"Congress 2:06","2:06",2024-05-21 02:06:00,2024-05-21,"2024-05-21",64.6
+"20 May 2024",2024-05-21,"Congress(only ~10% flew a few miles WNW) 2:48","2:48",2024-05-21 02:48:00,2024-05-21,"2024-05-21",64.6
+"19 May 2024",2024-05-20,"OldTunnel Congress(~19% (total) of the colony flew 6 miles WNW (but many of those chose to fly SE to altitude) 2:20","2:20",2024-05-20 02:20:00,2024-05-20,"2024-05-20",23.9
+"18 May 2024",2024-05-19,"OldTunnel Congress(~19% (total) of the colony flew 6 miles WNW (but many of those chose to fly SE to altitude) 2:20","2:20",2024-05-19 02:20:00,2024-05-19,"2024-05-19",37.8
+"16 May 2024",2024-05-17,"OldTunnel Congress(~15% of the colony flew 12 miles SW) 2:20","2:20",2024-05-17 02:20:00,2024-05-17,"2024-05-17",32.6
+"15 May 2024",2024-05-16,"Congress(~83% of the colony flew 14 miles NW behind passing storm) 2:16","2:16",2024-05-16 02:16:00,2024-05-16,"2024-05-16",84.8
+"14 May 2024",2024-05-15,"OldTunnel Congress(100% of the colony flew 8 miles SE) Stuart Bracketville FosterRd 2:08","2:08",2024-05-15 02:08:00,2024-05-15,"2024-05-15",14.8
+"13 May 2024",2024-05-14,"Congress(~60% of the colony flew 6 miles SSE) SmythCrossing Rucker EaglePass 2:10","2:10",2024-05-14 02:10:00,2024-05-14,"2024-05-14",1.3
+"12 May 2024",2024-05-13,"Congress(<1k) at 2:56","2:56",2024-05-13 02:56:00,2024-05-13,"2024-05-13",68.6
+"11 May 2024",2024-05-12,"Congress(~44% of the colony flew 8 miles NNW) 2:30","2:30",2024-05-12 02:30:00,2024-05-12,"2024-05-12",100
+"11 May 2024",2024-05-12,"Congress2 2:46","2:46",2024-05-12 02:46:00,2024-05-12,"2024-05-12",100
+"10 May 2024",2024-05-11,"Congress 2:14","2:14",2024-05-11 02:14:00,2024-05-11,"2024-05-11",58.7
+"10 May 2024",2024-05-11,"Congress2(~21% of the colony flew 6 miles SSW) 2:22","2:22",2024-05-11 02:22:00,2024-05-11,"2024-05-11",58.7
+"9 May 2024",2024-05-10,"Congress(~19%n of the colony flew ~6 miles SSW after Thunderstorm ended) 2:50","2:50",2024-05-10 02:50:00,2024-05-10,"2024-05-10",36.9
+"8 May 2024",2024-05-09,"McNeil Congress(~22% bof the colony flew a few miles S way after dark) 2:56","2:56",2024-05-09 02:56:00,2024-05-09,"2024-05-09",65.1
+"7 May 2024",2024-05-08,"Congress(~18% of the colony flew 4 miles NW) 2:58","2:58",2024-05-08 02:58:00,2024-05-08,"2024-05-08",74
+"6 May 2024",2024-05-07,"OldTunnel Chiroptorium Congress Marshall(tiny) 2:08","2:08",2024-05-07 02:08:00,2024-05-07,"2024-05-07",67.8
+"5 May 2024",2024-05-06,"just a smattering of bats from Congress 2:16","2:16",2024-05-06 02:16:00,2024-05-06,"2024-05-06",79.9
+"3 May 2024",2024-05-04,"Congress(~4% came out for a look around once fog/mist cleared) 2:38","2:38",2024-05-04 02:38:00,2024-05-04,"2024-05-04",83.8
+"2 May 2024",2024-05-03,"Congress(only ~2% flew a few miles S) 2:12","2:12",2024-05-03 02:12:00,2024-05-03,"2024-05-03",99.4
+"1 May 2024",2024-05-02,"Congress a little activity around the bridge at 2:54 after storm passed","2:54",2024-05-02 02:54:00,2024-05-02,"2024-05-02",99.3
+"30 April 2024",2024-05-01,"Congress(35 minutes after dark ~28% of the colony flew 6 miles NW) 2:40","2:40",2024-05-01 02:40:00,2024-05-01,"2024-05-01",87.8
+"29 April 2024",2024-04-30,"Congress(~10% of the colony headed 6 miles WNW) 2:04","2:04",2024-04-30 02:04:00,2024-04-30,"2024-04-30",71.1
+"28 April 2024",2024-04-29,"Congress(52% of the colony flew 8 miles ESE) GrapeCreek 1:50","1:50",2024-04-29 01:50:00,2024-04-29,"2024-04-29",49.4
+"25 April 2024",2024-04-26,"Congress(only ~7% of the colony braved gusty winds to fly 6 miles NW) Fern 2:24","2:24",2024-04-26 02:24:00,2024-04-26,"2024-04-26",92.8
+"24 April 2024",2024-04-25,"Congress(~23% of the colony flew 10 miles NW) 1:46","1:46",2024-04-25 01:46:00,2024-04-25,"2024-04-25",95.5
+"23 April 2024",2024-04-24,"Huber Congress(~6% of the colony flew 10 miles NW to Lake Travis) ABIA Dittmar Onion Creedmoor SMRB(Slayden) Stuart 1:36","1:36",2024-04-24 01:36:00,2024-04-24,"2024-04-24",84.1
+"22 April 2024",2024-04-23,"Congress(~11% of the colony flew ~6 miles N) SALutheran Uvalde NuecesRR Nueces90 SmythCrossing Dabny 1:36","1:36",2024-04-23 01:36:00,2024-04-23,"2024-04-23",71.1
+"21 April 2024",2024-04-22,"Congress(~14% of the colony flew 14 miles SW) 1:36","1:36",2024-04-22 01:36:00,2024-04-22,"2024-04-22",7.6
+"19 April 2024",2024-04-20,"CongressScout 1:50","1:50",2024-04-20 01:50:00,2024-04-20,"2024-04-20",99
+"19 April 2024",2024-04-20,"Congress(after dark ~13% of the colony flew a few miles S staying fairly close to the bridge) 1:58","1:58",2024-04-20 01:58:00,2024-04-20,"2024-04-20",99
+"18 April 2024",2024-04-19,"Congress(~10% of the colony flew a few miles WNW) 1:48","1:48",2024-04-19 01:48:00,2024-04-19,"2024-04-19",80.9
+"17 April 2024",2024-04-18,"Congress(only~8% of the colony flew a few mile NW) 2:00","2:00",2024-04-18 02:00:00,2024-04-18,"2024-04-18",74
+"16 April 2024",2024-04-17,"Congress(weak – only ~13. flew 4 miles NW) SAlutheranHS Centerpoint 1:46","1:46",2024-04-17 01:46:00,2024-04-17,"2024-04-17",89.8
+"15 April 2024",2024-04-16,"Congress 2:18(~24.5k flew 6 miles NW after storm slid by to the S","2:18",2024-04-16 02:18:00,2024-04-16,"2024-04-16",98.4
+"14 April 2024",2024-04-15,"BeeCreekPark Loyola Congress(~9% of the colony flew 12 niles N) Onion SMRB(Slayden) Floresville 1:42","1:42",2024-04-15 01:42:00,2024-04-15,"2024-04-15",92.1
+"13 April 2024",2024-04-14,"DavisBlowout Congress(only ~5% of the colony flew 20 miles NW on gusty winds) 1:38","1:38",2024-04-14 01:38:00,2024-04-14,"2024-04-14",76.9
+"12 April 2024",2024-04-13,"Congress(34% of the colony flew 12 miles NNW) ABIA 1:28","1:28",2024-04-13 01:28:00,2024-04-13,"2024-04-13",41.2
+"11 April 2024",2024-04-12,"OldTunnel WellsBranch Howard Congress(68% of the colony flew 16 miles S – 30% to altitude) Wimberley SanMarcos SMCenterpoint Camden BalconesHeights Seguin 1:20","1:20",2024-04-12 01:20:00,2024-04-12,"2024-04-12",9.8
+"10 April 2024",2024-04-11,"Chiroptorium Congress(~8% of the colony flew 8 miles S) Dittmar SanMarcos BalconesHeights Floresville 1:26","1:26",2024-04-11 01:26:00,2024-04-11,"2024-04-11",0.1
+"7 April 2024",2024-04-08,"OldTunnel DavisBlowout Congress(34% flew 6 miles ESE 16% to altitude) Ney Centerpoint 1:38","1:38",2024-04-08 01:38:00,2024-04-08,"2024-04-08",90.5
+"6 April 2024",2024-04-07,"Congress(high winds kept most bats in the roost) 1:36","1:36",2024-04-07 01:36:00,2024-04-07,"2024-04-07",50.8
+"5 April 2024",2024-04-06,"Congress(19% of the colony flew 18 miles NNW) 1:44","1:44",2024-04-06 01:44:00,2024-04-06,"2024-04-06",78.9
+"4 April 2024",2024-04-05,"Chiroptorium Congress(~49% od the colony flew – 33% to altitude) Wimberley SanMarcos SMCenterpoint 410&IH35 BalconesHeights SALutheranHS Seguin Ney 1:18","1:18",2024-04-05 01:18:00,2024-04-05,"2024-04-05",7
+"3 April 2024",2024-04-04,"Congress(39% of colony 12% to altitude) Loyola Webb 1:14","1:14",2024-04-04 01:14:00,2024-04-04,"2024-04-04",0.3
+"2 April 2024",2024-04-03,"Congress(only ~2% of the colony braved gusty N winds to fly 8 miles SSE) Dittmar Wimberley SCUCISD 410&IH35 SALutheranHS Stuart 1:18","1:18",2024-04-03 01:18:00,2024-04-03,"2024-04-03",1.2
+"1 April 2024",2024-04-02,"McNeil2 4:30","4:30",2024-04-02 04:30:00,2024-04-02,"2024-04-02",24.2
+"1 April 2024",2024-04-02,"Congress2 4:36","4:36",2024-04-02 04:36:00,2024-04-02,"2024-04-02",24.2
+"31 March 2024",2024-04-01,"Congress(after dark only ~3% of the colony flew a few miles NW on SE Winds at 14 mph) 1:24","1:24",2024-04-01 01:24:00,2024-04-01,"2024-04-01",81.9
+"30 March 2024",2024-03-31,"Chiroptorium Huber Congress(only ~6% of the colony flew 6 miles NW on S Winds at 6 mph) 1:30","1:30",2024-03-31 01:30:00,2024-03-31,"2024-03-31",95
+"29 March 2024",2024-03-30,"Huber BeeCavePark Congress 1:22","1:22",2024-03-30 01:22:00,2024-03-30,"2024-03-30",90.3
+"28 March 2024",2024-03-29,"Chiroptorium DavisBlowout BeaverCreek Congress Lockhart SALutheranHS Seguin Harwood 1:16","1:16",2024-03-29 01:16:00,2024-03-29,"2024-03-29",37.2
+"27 March 2024",2024-03-28,"McNeil Congress(~15% flew 12 miles ESE as storms skirted to the north) 0:48","0:48",2024-03-28 00:48:00,2024-03-28,"2024-03-28",2.5
+"26 March 2024",2024-03-27,"Temple Congress(~11% of the colony flew 6 miles S) 1:02","1:02",2024-03-27 01:02:00,2024-03-27,"2024-03-27",41.8
+"25 March 2024",2024-03-26,"Chiroptorium Congress(~36% of the colony flew 12 miles SE on NW Winds at 3 mph) Wimberley SMCenterpoint SchertzClemens Randolph Camden Seguin SALutheranHS 1:02","1:02",2024-03-26 01:02:00,2024-03-26,"2024-03-26",9.3
+"24 March 2024",2024-03-25,"Temple Congress(only ~2% of the colony braved the windy conditions to fly 6 miles NNW) Wimberley SanMarcos SMCenterpoint SCUCISD SchertzClemens Randolph TX28 410&IH35 SALutheranHS 1:00","1:00",2024-03-25 01:00:00,2024-03-25,"2024-03-25",60.7
+"23 March 2024",2024-03-24,"Temple Loyola WaterlooGreenway Congress(2 miniutes past sunset ~34% of the colony flew 8 miles ESE (31% to altitude) into SE winds at 5mph) ABIA Fern 0:54","0:54",2024-03-24 00:54:00,2024-03-24,"2024-03-24",77.6
+"22 March 2024",2024-03-23,"Temple Leander CedarPark BeeCavePark NLamar Congress(only ~4% of the colony flew 8 miles SSE) 0:56","0:56",2024-03-23 00:56:00,2024-03-23,"2024-03-23",31.8
+"21 March 2024",2024-03-22,"Congress 1:24(~3% ventured out between rain storms","1:24",2024-03-22 01:24:00,2024-03-22,"2024-03-22",43.3
+"20 March 2024",2024-03-21,"Congress(~22% of the colony – 25% flew to altitude) ABIA Bracken(after rain shower) SchertzClemens Randolph TX28 BalconesHeights 0:46","0:46",2024-03-21 00:46:00,2024-03-21,"2024-03-21",96.4
+"19 March 2024",2024-03-20,"WellsBranch Congress(~24% of the colony flew 12 miles SE) UT 0:46","0:46",2024-03-20 00:46:00,2024-03-20,"2024-03-20",94.4
+"18 March 2024",2024-03-19,"Congress(2% popped out between rain showers 0:40","0:40",2024-03-19 00:40:00,2024-03-19,"2024-03-19",54.8
+"17 March 2024",2024-03-18,"Congress(only ~3% of the colony flew 8 miles SSW in unstable conditions) 0:58","0:58",2024-03-18 00:58:00,2024-03-18,"2024-03-18",50.5
+"16 March 2024",2024-03-17,"Congress(only ~4% of the colonyt flew 8 miles SSE in unstable conditions) 1:04","1:04",2024-03-17 01:04:00,2024-03-17,"2024-03-17",94.7
+"15 March 2024",2024-03-16,"FtCavazos Congress(~12% of the colony flew 6 miles SSW (13% to altitued) on N Winds at 15 mph) 1:10","1:10",2024-03-16 01:10:00,2024-03-16,"2024-03-16",98.2
+"14 March 2024",2024-03-15,"Chiroptorium Congress(only ~5% of the colony braved unstable conditions to fly ~4 miles W (19% to altitude) 1:14","1:14",2024-03-15 01:14:00,2024-03-15,"2024-03-15",85.4
+"13 March 2024",2024-03-14,"Congress(~12% of the colony flew 12 miles NW on SE Winds at 13mph) 1:12","1:12",2024-03-14 01:12:00,2024-03-14,"2024-03-14",98.7
+"12 March 2024",2024-03-13,"Congress(only~12% flew on a perfect night) 1:08","1:08",2024-03-13 01:08:00,2024-03-13,"2024-03-13",85.4
+"11 March 2024",2024-03-12,"Congress(~35% of the colony flew 18 miles ESE – 28% of those flew to altitude) ABIA Bracken SCUCISD 410&IH35 Longhorn&WesternRR SALutheranHS 0:48","0:48",2024-03-12 00:48:00,2024-03-12,"2024-03-12",80.7
+"10 March 2024",2024-03-11,"WellsBranch Howard Congress(60% of the colony flew 12 miles SSE 20% to altitude) ABIA 0:40","0:40",2024-03-11 00:40:00,2024-03-11,"2024-03-11",39.2
+"9 March 2024",2024-03-10,"Howard Congress(only ~1% flew – 2% to altitude) 0:48","0:48",2024-03-10 00:48:00,2024-03-10,"2024-03-10",18.5
+"8 March 2024",2024-03-09,"Congress(only ~7% of the colony (6% to altitude) 0:54","0:54",2024-03-09 00:54:00,2024-03-09,"2024-03-09",48.3
+"7 March 2024",2024-03-08,"Congress(only ~5% flew after the rain – 30% of those went to atltitude) 1:52 after rain at flight time","1:52",2024-03-08 01:52:00,2024-03-08,"2024-03-08",49.2
+"6 March 2024",2024-03-07,"Congress(25% of the colony flew – 26% to altitude) ElMoral(Coahuila) 1:06","1:06",2024-03-07 01:06:00,2024-03-07,"2024-03-07",93.1
+"5 March 2024",2024-03-06,"WelssBranch Congress(~30% of the colony flew – ~6% to altitude) SMCenterpoint SMRB(Slayden) FosterRd 0:48","0:48",2024-03-06 00:48:00,2024-03-06,"2024-03-06",14
+"5 March 2024",2024-03-06,"Congress2 1:12","1:12",2024-03-06 01:12:00,2024-03-06,"2024-03-06",14
+"4 March 2024",2024-03-05,"Temple(heads NW to meet storm) Congress(~140k – 30% to altitude) 0:54","0:54",2024-03-05 00:54:00,2024-03-05,"2024-03-05",8.7
+"3 March 2024",2024-03-04,"Congress(~28% of the colony flew – 32% of them flew to altitude) WellsBranch Howard EaglePass FosterRd 0:58","0:58",2024-03-04 00:58:00,2024-03-04,"2024-03-04",68.7
+"1 March 2024",2024-03-02,"UT Waterloo Congress(~533.6k – 24% to altitude) Loyola Wimberley SanMarcos SMCenterpoint SCUCISD Harwood Pinto EaglePass 0:48","0:48",2024-03-02 00:48:00,2024-03-02,"2024-03-02",12.8
+"28 February 2024",2024-02-29,"McNeil Congress(~800 none to altitude) Dittmar 0:38","0:38",2024-02-29 00:38:00,2024-02-29,"2024-02-29",87
+"27 February 2024",2024-02-28,"Congress(~104.3k – 5% to altitude at max 1st scan level – possibly more later) SchertzClemens 0:40","0:40",2024-02-28 00:40:00,2024-02-28,"2024-02-28",22.1
+"26 February 2024",2024-02-27,"Temple McNeil2 NLamar UT Loyola Congress(~34.3k – 13% to altitude) 0:46","0:46",2024-02-27 00:46:00,2024-02-27,"2024-02-27",67
+"25 February 2024",2024-02-26,"Congress(40.0k – 23% to altitude) 0:52","0:52",2024-02-26 00:52:00,2024-02-26,"2024-02-26",27.7
+"24 February 2024",2024-02-25,"Temple WellsBranch Howard NLamar Congress(~40.0k – 9% to altitude) ABIA SMCenterpoint 0:44","0:44",2024-02-25 00:44:00,2024-02-25,"2024-02-25",15.1
+"23 February 2024",2024-02-24,"WellsBranch Congress(~103.3k – 0% to atlitude) Sabinal 0:22","0:22",2024-02-24 00:22:00,2024-02-24,"2024-02-24",8.9
+"22 February 2024",2024-02-23,"WellsBranch Congress Wimberley SALutheranHS 0:38","0:38",2024-02-23 00:38:00,2024-02-23,"2024-02-23",5.8
+"21 February 2024",2024-02-22,"Milano Lexington Congress 0:56","0:56",2024-02-22 00:56:00,2024-02-22,"2024-02-22",49.8
+"20 February 2024",2024-02-21,"FtCavazosMain Temple Milano Thorndale Elgin Lexington Loyola Congress(~35.2k – 20% to altitude) Bastrop SMCenterpoint 0:48","0:48",2024-02-21 00:48:00,2024-02-21,"2024-02-21",68.6
+"19 February 2024",2024-02-20,"Temple McNeil(~79.7k – 36% to altitude) BeeCavePark Congress(~34.4k – 9% to altitude) Dittmar 0:46","0:46",2024-02-20 00:46:00,2024-02-20,"2024-02-20",5.3
+"18 February 2024",2024-02-19,"McNeil 0:58","0:58",2024-02-19 00:58:00,2024-02-19,"2024-02-19",1.1
+"18 February 2024",2024-02-19,"Congress 0:52","0:52",2024-02-19 00:52:00,2024-02-19,"2024-02-19",1.1
+"16 February 2024",2024-02-17,"Temple Belton Salado Granger Taylor Congress(~26.8k – 2% to altitude) SMCenterpoint SCUCISD 0:38","0:38",2024-02-17 00:38:00,2024-02-17,"2024-02-17",41.8
+"15 February 2024",2024-02-16,"Temple Congress(~56.0k – 20% to altitude) SanMarcos 0:40","0:40",2024-02-16 00:40:00,2024-02-16,"2024-02-16",62.6
+"14 February 2024",2024-02-15,"Congress(~27.0k – 14% to altitude) Creedmoor MustangRidge Bracken 0:38","0:38",2024-02-15 00:38:00,2024-02-15,"2024-02-15",70.9
+"12 February 2024",2024-02-13,"Congress(1.1k – 0% to altitude) 0:50","0:50",2024-02-13 00:50:00,2024-02-13,"2024-02-13",3.3
+"11 February 2024",2024-02-12,"Congress(tiny) Creedmoor 1:00","1:00",2024-02-12 01:00:00,2024-02-12,"2024-02-12",30.3
+"10 February 2024",2024-02-11,"Congress(~1.8k between storms) 0:42","0:42",2024-02-11 00:42:00,2024-02-11,"2024-02-11",89.2
+"10 February 2024",2024-02-11,"CongressRain 0:52","0:52",2024-02-11 00:52:00,2024-02-11,"2024-02-11",89.2
+"9 February 2024",2024-02-10,"Congress(~57.5k 16% to altitude) Lockhart Bracken Seguin 0:34","0:34",2024-02-10 00:34:00,2024-02-10,"2024-02-10",96.3
+"8 February 2024",2024-02-09,"Congress2(12.1k – 12% to altitude) 1:32","1:32",2024-02-09 01:32:00,2024-02-09,"2024-02-09",75.1
+"7 February 2024",2024-02-08,"Congress(only ~2.5k) 23:58","3:58",2024-02-08 03:58:00,2024-02-08,"2024-02-08",68.1
+"6 February 2024",2024-02-07,"Congress(~18.3k – 9% to altitude) Creedmoor MustangRidge SanMarcos 410&IH35 Harwood 0:34","0:34",2024-02-07 00:34:00,2024-02-07,"2024-02-07",33.1
+"5 February 2024",2024-02-06,"NLamar Congress(~10.0k) Buda Wimberley CanyonLake SCUCISD CiboloSteele SchertzClemens MartindaleHeliport Seguin 0:34","0:34",2024-02-06 00:34:00,2024-02-06,"2024-02-06",10.8
+"4 February 2024",2024-02-05,"Congress(~5.0k – 0% to altitude) SanPedro BalconesHeights SALutheranHS 0:38","0:38",2024-02-05 00:38:00,2024-02-05,"2024-02-05",48.2
+"3 February 2024",2024-02-04,"Congress(~19.3k+17.2k later=36.5k 2% to altitude) Dittmar(~11.3k – 0% to altitude) MustangRidge Wimberley Lockhart SchertzClemens NuecesRR SmythCrossing EaglePass 0:28","0:28",2024-02-04 00:28:00,2024-02-04,"2024-02-04",21.9
+"3 February 2024",2024-02-04,"Congress2 Frio D’Hanis Spofford Pinto Stuart 0:54","0:54",2024-02-04 00:54:00,2024-02-04,"2024-02-04",21.9
+"2 February 2024",2024-02-03,"Congress (~5.2k) 0:44 between rain showers","0:44",2024-02-03 00:44:00,2024-02-03,"2024-02-03",45.4
+"1 February 2024",2024-02-02,"Congress(~11.4k) Comfort 0:48","0:48",2024-02-02 00:48:00,2024-02-02,"2024-02-02",98.7
+"30 January 2024",2024-01-31,"Congress(~43.5k) Dittmar Bracken SALutheranHS 0:40","0:40",2024-01-31 00:40:00,2024-01-31,"2024-01-31",12.5
+"29 January 2024",2024-01-30,"Congress(38.2k – 3% to altitude) 0:30","0:30",2024-01-30 00:30:00,2024-01-30,"2024-01-30",8.5
+"28 January 2024",2024-01-29,"Congress(~34.9k – 0% to altitude) MustangRidge Lockhart Bracken Timberwood SanPedro BalconesHeights Camden 0:38","0:38",2024-01-29 00:38:00,2024-01-29,"2024-01-29",4.6
+"27 January 2024",2024-01-28,"Congress(~20k partial local migration – ~15.3k went S toward Bracken) Wimberley CanyonLake SCUCISD TX28 Camden 0:34","0:34",2024-01-28 00:34:00,2024-01-28,"2024-01-28",0.6
+"25 January 2024",2024-01-26,"Congress Comfort Kerrville 0:38","0:38",2024-01-26 00:38:00,2024-01-26,"2024-01-26",100
+"18 January 2024",2024-01-19,"BeeCavePark Congress 0:40","0:40",2024-01-19 00:40:00,2024-01-19,"2024-01-19",2.5
+"11 January 2024",2024-01-12,"Congress(~12.9k) 0:44","0:44",2024-01-12 00:44:00,2024-01-12,"2024-01-12",22
+"10 January 2024",2024-01-11,"Congress(~4.5k – 3% to altitude) 0:44","0:44",2024-01-11 00:44:00,2024-01-11,"2024-01-11",24.8
+"6 January 2024",2024-01-07,"Congress(~3.8k) 0:40","0:40",2024-01-07 00:40:00,2024-01-07,"2024-01-07",30.1
+"5 January 2024",2024-01-06,"Congress(~7.7k ~100 to altitude) 0:38","0:38",2024-01-06 00:38:00,2024-01-06,"2024-01-06",12.4
+"1 January 2024",2024-01-02,"Congress(a few hundred) 0:26","0:26",2024-01-02 00:26:00,2024-01-02,"2024-01-02",96.3
+"31 December 2023",2024-01-01,"Congress(~20k) Loyola 0:36","0:36",2024-01-01 00:36:00,2024-01-01,"2024-01-01",34.1
+"24 December 2023",2023-12-25,"Thorndale Milano NLamar Congress Wimberley 0:14","0:14",2023-12-25 00:14:00,2023-12-25,"2023-12-25",8.9
+"22 December 2023",2023-12-23,"Congress(~55.6k) Stuart Dabny 0:32","0:32",2023-12-23 00:32:00,2023-12-23,"2023-12-23",99.3
+"21 December 2023",2023-12-22,"Congress (tiny ~690) 0:40","0:40",2023-12-22 00:40:00,2023-12-22,"2023-12-22",79.3
+"20 December 2023",2023-12-21,"Congress Lockhart SALutheranHS 0:22","0:22",2023-12-21 00:22:00,2023-12-21,"2023-12-21",99.6
+"19 December 2023",2023-12-20,"Congress 0:50","0:50",2023-12-20 00:50:00,2023-12-20,"2023-12-20",80
+"18 December 2023",2023-12-19,"Congress(~2.9k) CanyonLake 0:16","0:16",2023-12-19 00:16:00,2023-12-19,"2023-12-19",16.5
+"17 December 2023",2023-12-18,"Congress(~900) SanMarcos 0:24","0:24",2023-12-18 00:24:00,2023-12-18,"2023-12-18",2.8
+"16 December 2023",2023-12-17,"Congress(~8.1k) 0:18","0:18",2023-12-17 00:18:00,2023-12-17,"2023-12-17",4.7
+"14 December 2023",2023-12-15,"Loyola Congress(~6.5k) 0:26","0:26",2023-12-15 00:26:00,2023-12-15,"2023-12-15",99.5
+"13 December 2023",2023-12-14,"Congress(~11.5k) 0:26","0:26",2023-12-14 00:26:00,2023-12-14,"2023-12-14",89.2
+"12 December 2023",2023-12-13,"Congress (~11.4k) 0:40","0:40",2023-12-13 00:40:00,2023-12-13,"2023-12-13",99.4
+"05 December 2023",2023-12-06,"Loyola Congress(~14.2k) 0:22","0:22",2023-12-06 00:22:00,2023-12-06,"2023-12-06",7.6
+"05 December 2023",2023-12-06,"Huber 0:28 heads to McNeil and/or Congress","0:28",2023-12-06 00:28:00,2023-12-06,"2023-12-06",7.6
+"03 December 2023",2023-12-04,"Congress only ~700 at 0:14","0:14",2023-12-04 00:14:00,2023-12-04,"2023-12-04",5.5
+"03 December 2023",2023-12-04,"360) 0:36 headed to Congress","0:36",2023-12-04 00:36:00,2023-12-04,"2023-12-04",5.5
+"02 December 2023",2023-12-03,"Huber Congress 0:04","0:04",2023-12-03 00:04:00,2023-12-03,"2023-12-03",16.8
+"01 December 2023",2023-12-02,"OldTunnel2 Congress MustangRidge Blanco Wimberley Gonzales 23:58","3:58",2023-12-02 03:58:00,2023-12-02,"2023-12-02",24.3
+"12 September 2023",2023-09-13,"Howard NLamar Loyola Congress Dittmar Onion Buda Kyle FosterRd 1:08","1:08",2023-09-13 01:08:00,2023-09-13,"2023-09-13",53.4
+"11 September 2023",2023-09-12,"McNeil WellsBranch Howard BeeCavePark Nlamar Loyola Congress WaterlooGreenway ABIA Dittmar Onion Kyle Buda Lockhart 1:08","1:08",2023-09-12 01:08:00,2023-09-12,"2023-09-12",33.5
+"10 September 2023",2023-09-11,"Huber McNeil WellsBranch Howard Loyola BeeCavePark Congress Dittmar Nixon Floresville 1:02","1:02",2023-09-11 01:02:00,2023-09-11,"2023-09-11",24.1
+"9 September 2023",2023-09-10,"McNeil Congress Dittmar Onion Randolph 410&IH35 0:46","0:46",2023-09-10 00:46:00,2023-09-10,"2023-09-10",9.9
+"8 September 2023",2023-09-09,"McNeil WellsBranch Congress Victoria 0:46","0:46",2023-09-09 00:46:00,2023-09-09,"2023-09-09",15.5
+"7 September 2023",2023-09-08,"Huber McNeil WellsBranch Howard Loyola Congress 0:56","0:56",2023-09-08 00:56:00,2023-09-08,"2023-09-08",2.2
+"6 September 2023",2023-09-07,"OldTunnel WellsBranch NLamar Congress TomMillerDam Onion Kyle 0:58","0:58",2023-09-07 00:58:00,2023-09-07,"2023-09-07",6.5
+"5 September 2023",2023-09-06,"WellsBranch Howard NLamar Congress 1:04","1:04",2023-09-06 01:04:00,2023-09-06,"2023-09-06",23.5
+"4 September 2023",2023-09-05,"Congress WofEden 1:06","1:06",2023-09-05 01:06:00,2023-09-05,"2023-09-05",25
+"3 September 2023",2023-09-04,"Huber NLamar Congress Wrightsboro 1:12","1:12",2023-09-04 01:12:00,2023-09-04,"2023-09-04",27.3
+"2 September 2023",2023-09-03,"McNeil WellsBranch Nlamar Loyola Congress Camden 1:14","1:14",2023-09-03 01:14:00,2023-09-03,"2023-09-03",8.6
+"1 September 2023",2023-09-02,"WellsBranch NLamar Loyola Congress 1:22","1:22",2023-09-02 01:22:00,2023-09-02,"2023-09-02",8.8
+"31 August 2023",2023-09-01,"McNeil Loyola Congress 1:30","1:30",2023-09-01 01:30:00,2023-09-01,"2023-09-01",11.2
+"30 August 2023",2023-08-31,"DavisBlowout WellsBranch Loyola Congress Onion Kyle 1:40","1:40",2023-08-31 01:40:00,2023-08-31,"2023-08-31",6.6
+"29 August 2023",2023-08-30,"OldTunnel Loyola Congress Dittmar Onion 1:34","1:34",2023-08-30 01:34:00,2023-08-30,"2023-08-30",12.8
+"28 August 2023",2023-08-29,"WellsBranch Congress 1:14","1:14",2023-08-29 01:14:00,2023-08-29,"2023-08-29",23.3
+"27 August 2023",2023-08-28,"Congress ABIA 0:44","0:44",2023-08-28 00:44:00,2023-08-28,"2023-08-28",23.6
+"26 August 2023",2023-08-27,"OldTunnel Congress Dittmar Onion Buda Kyle NofNixon 1:06","1:06",2023-08-27 01:06:00,2023-08-27,"2023-08-27",16.5
+"25 August 2023",2023-08-26,"WaterlooGreenway Congress 1:08","1:08",2023-08-26 01:08:00,2023-08-26,"2023-08-26",6.4
+"24 August 2023",2023-08-25,"Loyola Congress WaterlooGreenway(3k) 1:12","1:12",2023-08-25 01:12:00,2023-08-25,"2023-08-25",8.4
+"23 August 2023",2023-08-24,"Temple WellsBranch Howard CedarPark Congress 1:20","1:20",2023-08-24 01:20:00,2023-08-24,"2023-08-24",22.1
+"22 August 2023",2023-08-23,"WellsBranch Howard NLamar Congress Dittmar Onion Buda Camden 1:08","1:08",2023-08-23 01:08:00,2023-08-23,"2023-08-23",27.3
+"21 August 2023",2023-08-22,"Congress Onion 1:00","1:00",2023-08-22 01:00:00,2023-08-22,"2023-08-22",30.4
+"20 August 2023",2023-08-21,"McNeil BeeCavePark Loyola Congress 1:08","1:08",2023-08-21 01:08:00,2023-08-21,"2023-08-21",16.4
+"19 August 2023",2023-08-20,"DuncanPark Congress SanPedro Culebra&BanderaRd 1:18","1:18",2023-08-20 01:18:00,2023-08-20,"2023-08-20",14.1
+"19 August 2023",2023-08-20,"Congress2 1:46","1:46",2023-08-20 01:46:00,2023-08-20,"2023-08-20",14.1
+"18 August 2023",2023-08-19,"CedarPark BeeCavePark Loyola Congress ABIA NuecesRR 1:20","1:20",2023-08-19 01:20:00,2023-08-19,"2023-08-19",11.2
+"17 August 2023",2023-08-18,"Congress 1:18","1:18",2023-08-18 01:18:00,2023-08-18,"2023-08-18",3.6
+"15 August 2023",2023-08-16,"Congress(~766k) ABIA 1:16","1:16",2023-08-16 01:16:00,2023-08-16,"2023-08-16",4.6
+"14 August 2023",2023-08-15,"Congress(~400k) Lockhart 0:40","0:40",2023-08-15 00:40:00,2023-08-15,"2023-08-15",5.7
+"14 August 2023",2023-08-15,"Congress2 1:20","1:20",2023-08-15 01:20:00,2023-08-15,"2023-08-15",5.7
+"13 August 2023",2023-08-14,"Howard Congress ABIA 0:40","0:40",2023-08-14 00:40:00,2023-08-14,"2023-08-14",13.1
+"12 August 2023",2023-08-13,"Congress Lockhart 0:44","0:44",2023-08-13 00:44:00,2023-08-13,"2023-08-13",33.2
+"11 August 2023",2023-08-12,"WellsBranch Congress Lockhart SanPedro BalconesHeights Culebra&BanderaRd Seguin 0:50","0:50",2023-08-12 00:50:00,2023-08-12,"2023-08-12",22.5
+"10 August 2023",2023-08-11,"Lockhart SanPedro Congress 0:46","0:46",2023-08-11 00:46:00,2023-08-11,"2023-08-11",23.7
+"9 August 2023",2023-08-10,"Congress SanPedro BalconesHeights SALutheranHS Seguin SMRB(Slayden) Floresville 0:58","0:58",2023-08-10 00:58:00,2023-08-10,"2023-08-10",17.7
+"7 August 2023",2023-08-08,"Congress Buda Lockhart 0:54","0:54",2023-08-08 00:54:00,2023-08-08,"2023-08-08",14
+"6 August 2023",2023-08-07,"Congress Buda Lockhart 0:54","0:54",2023-08-07 00:54:00,2023-08-07,"2023-08-07",7.4
+"5 August 2023",2023-08-06,"Congress SMRB(Slayden) Floresville Vanderpool 0:56","0:56",2023-08-06 00:56:00,2023-08-06,"2023-08-06",8.8
+"4 August 2023",2023-08-05,"Congress Leesville NuecesRR SmythCrossing 1:06","1:06",2023-08-05 01:06:00,2023-08-05,"2023-08-05",6.6
+"3 August 2023",2023-08-04,"Congress 1:14","1:14",2023-08-04 01:14:00,2023-08-04,"2023-08-04",14.8
+"2 August 2023",2023-08-03,"Congress 1:20","1:20",2023-08-03 01:20:00,2023-08-03,"2023-08-03",10.3
+"1 August 2023",2023-08-02,"Congress 1:26","1:26",2023-08-02 01:26:00,2023-08-02,"2023-08-02",4.7
+"31 July 2023",2023-08-01,"Congress GrapeCreekHS 1:28","1:28",2023-08-01 01:28:00,2023-08-01,"2023-08-01",16.5
+"30 July 2023",2023-07-31,"WellsBranch Congress ABIA Onion Bracken2 1:32","1:32",2023-07-31 01:32:00,2023-07-31,"2023-07-31",12.3
+"29 July 2023",2023-07-30,"Huber FtCavazos Congress GrapeCreekHS 1:40","1:40",2023-07-30 01:40:00,2023-07-30,"2023-07-30",6.1
+"28 July 2023",2023-07-29,"Congress 1:42","1:42",2023-07-29 01:42:00,2023-07-29,"2023-07-29",5.3
+"27 July 2023",2023-07-28,"OldTunnel Huber Congress GrapeCreekHS FosterRd 1:52","1:52",2023-07-28 01:52:00,2023-07-28,"2023-07-28",10.3
+"26 July 2023",2023-07-27,"Congress 1:50 as seabreeze arrives","1:50",2023-07-27 01:50:00,2023-07-27,"2023-07-27",15
+"25 July 2023",2023-07-26,"McNeil Congress 1:54","1:54",2023-07-26 01:54:00,2023-07-26,"2023-07-26",23.1
+"24 July 2023",2023-07-25,"Congress 2:04","2:04",2023-07-25 02:04:00,2023-07-25,"2023-07-25",8.7
+"23 July 2023",2023-07-24,"McNeil WellsBranch Howard Congress 1:52","1:52",2023-07-24 01:52:00,2023-07-24,"2023-07-24",8.4
+"22 July 2023",2023-07-23,"Congress 1:46","1:46",2023-07-23 01:46:00,2023-07-23,"2023-07-23",20.7
+"21 July 2023",2023-07-22,"NLamar Congress ABIA 1:46","1:46",2023-07-22 01:46:00,2023-07-22,"2023-07-22",27.1
+"20 July 2023",2023-07-21,"UT Congress 1:52","1:52",2023-07-21 01:52:00,2023-07-21,"2023-07-21",9.4
+"19 July 2023",2023-07-20,"Huber Congress 1:56","1:56",2023-07-20 01:56:00,2023-07-20,"2023-07-20",24.1
+"18 July 2023",2023-07-19,"Congress 2:00","2:00",2023-07-19 02:00:00,2023-07-19,"2023-07-19",11
+"17 July 2023",2023-07-18,"Huber BeeCavePark Congress 2:04","2:04",2023-07-18 02:04:00,2023-07-18,"2023-07-18",4
+"16 July 2023",2023-07-17,"Congress 2:10","2:10",2023-07-17 02:10:00,2023-07-17,"2023-07-17",1.8
+"15 July 2023",2023-07-16,"Congress Dittmar 2:12","2:12",2023-07-16 02:12:00,2023-07-16,"2023-07-16",21.6
+"14 July 2023",2023-07-15,"Congress Vanderpool 2:16","2:16",2023-07-15 02:16:00,2023-07-15,"2023-07-15",28.5
+"13 July 2023",2023-07-14,"Congress D’Hanis 2:26","2:26",2023-07-14 02:26:00,2023-07-14,"2023-07-14",32.5
+"12 July 2023",2023-07-13,"Congress D’Hanis Fern 2:24","2:24",2023-07-13 02:24:00,2023-07-13,"2023-07-13",33.8
+"11 July 2023",2023-07-12,"Congress Dittmar 2:14","2:14",2023-07-12 02:14:00,2023-07-12,"2023-07-12",22.6
+"10 July 2023",2023-07-11,"Huber Congress 2:18","2:18",2023-07-11 02:18:00,2023-07-11,"2023-07-11",19.3
+"09 July 2023",2023-07-10,"UT Congress 2:14","2:14",2023-07-10 02:14:00,2023-07-10,"2023-07-10",18.2
+"08 July 2023",2023-07-09,"Huber Congress 2:16","2:16",2023-07-09 02:16:00,2023-07-09,"2023-07-09",18
+"07 July 2023",2023-07-08,"Congress 2:14","2:14",2023-07-08 02:14:00,2023-07-08,"2023-07-08",32.1
+"06 July 2023",2023-07-07,"Huber UT Congress Dittmar 2:14","2:14",2023-07-07 02:14:00,2023-07-07,"2023-07-07",45.9
+"05 July 2023",2023-07-06,"BeaverCreek Congress 2:20","2:20",2023-07-06 02:20:00,2023-07-06,"2023-07-06",51.2
+"04 July 2023",2023-07-05,"Congress 2:20","2:20",2023-07-05 02:20:00,2023-07-05,"2023-07-05",41.6
+"03 July 2023",2023-07-04,"Congress 2:12","2:12",2023-07-04 02:12:00,2023-07-04,"2023-07-04",21.9
+"02 July 2023",2023-07-03,"WellsBranch UT Congress 2:12","2:12",2023-07-03 02:12:00,2023-07-03,"2023-07-03",23.2
+"01 July 2023",2023-07-02,"Huber Congress 2:04","2:04",2023-07-02 02:04:00,2023-07-02,"2023-07-02",27.1
+NA,2023-07-01,NA,NA,NA,NA,"2023-07-01",51.1
+NA,2023-08-09,NA,NA,NA,NA,"2023-08-09",13.8
+NA,2023-08-17,NA,NA,NA,NA,"2023-08-17",2.1
+NA,2023-09-14,NA,NA,NA,NA,"2023-09-14",77.2
+NA,2023-09-15,NA,NA,NA,NA,"2023-09-15",51.6
+NA,2023-09-16,NA,NA,NA,NA,"2023-09-16",35.3
+NA,2023-09-17,NA,NA,NA,NA,"2023-09-17",21.7
+NA,2023-09-18,NA,NA,NA,NA,"2023-09-18",9.7
+NA,2023-09-19,NA,NA,NA,NA,"2023-09-19",8.9
+NA,2023-09-20,NA,NA,NA,NA,"2023-09-20",10.6
+NA,2023-09-21,NA,NA,NA,NA,"2023-09-21",41.3
+NA,2023-09-22,NA,NA,NA,NA,"2023-09-22",37.8
+NA,2023-09-23,NA,NA,NA,NA,"2023-09-23",25.8
+NA,2023-09-24,NA,NA,NA,NA,"2023-09-24",30.5
+NA,2023-09-25,NA,NA,NA,NA,"2023-09-25",39
+NA,2023-09-26,NA,NA,NA,NA,"2023-09-26",10.5
+NA,2023-09-27,NA,NA,NA,NA,"2023-09-27",16.8
+NA,2023-09-28,NA,NA,NA,NA,"2023-09-28",5.2
+NA,2023-09-29,NA,NA,NA,NA,"2023-09-29",15.3
+NA,2023-09-30,NA,NA,NA,NA,"2023-09-30",21.3
+NA,2023-10-01,NA,NA,NA,NA,"2023-10-01",30.9
+NA,2023-10-02,NA,NA,NA,NA,"2023-10-02",21.2
+NA,2023-10-03,NA,NA,NA,NA,"2023-10-03",35.2
+NA,2023-10-04,NA,NA,NA,NA,"2023-10-04",66.7
+NA,2023-10-05,NA,NA,NA,NA,"2023-10-05",75.5
+NA,2023-10-06,NA,NA,NA,NA,"2023-10-06",19.1
+NA,2023-10-07,NA,NA,NA,NA,"2023-10-07",17.9
+NA,2023-10-08,NA,NA,NA,NA,"2023-10-08",10.8
+NA,2023-10-09,NA,NA,NA,NA,"2023-10-09",11
+NA,2023-10-10,NA,NA,NA,NA,"2023-10-10",46.3
+NA,2023-10-11,NA,NA,NA,NA,"2023-10-11",78.5
+NA,2023-10-12,NA,NA,NA,NA,"2023-10-12",83.2
+NA,2023-10-13,NA,NA,NA,NA,"2023-10-13",69
+NA,2023-10-14,NA,NA,NA,NA,"2023-10-14",20.8
+NA,2023-10-15,NA,NA,NA,NA,"2023-10-15",4.8
+NA,2023-10-16,NA,NA,NA,NA,"2023-10-16",0.3
+NA,2023-10-17,NA,NA,NA,NA,"2023-10-17",0.8
+NA,2023-10-18,NA,NA,NA,NA,"2023-10-18",0.9
+NA,2023-10-19,NA,NA,NA,NA,"2023-10-19",1.7
+NA,2023-10-20,NA,NA,NA,NA,"2023-10-20",3.5
+NA,2023-10-21,NA,NA,NA,NA,"2023-10-21",14.3
+NA,2023-10-22,NA,NA,NA,NA,"2023-10-22",28.3
+NA,2023-10-23,NA,NA,NA,NA,"2023-10-23",85.9
+NA,2023-10-24,NA,NA,NA,NA,"2023-10-24",96.5
+NA,2023-10-25,NA,NA,NA,NA,"2023-10-25",86.4
+NA,2023-10-26,NA,NA,NA,NA,"2023-10-26",84
+NA,2023-10-27,NA,NA,NA,NA,"2023-10-27",90.7
+NA,2023-10-28,NA,NA,NA,NA,"2023-10-28",72.6
+NA,2023-10-29,NA,NA,NA,NA,"2023-10-29",95.7
+NA,2023-10-30,NA,NA,NA,NA,"2023-10-30",99.8
+NA,2023-10-31,NA,NA,NA,NA,"2023-10-31",46
+NA,2023-11-01,NA,NA,NA,NA,"2023-11-01",0
+NA,2023-11-02,NA,NA,NA,NA,"2023-11-02",12.6
+NA,2023-11-03,NA,NA,NA,NA,"2023-11-03",37.9
+NA,2023-11-04,NA,NA,NA,NA,"2023-11-04",48.4
+NA,2023-11-05,NA,NA,NA,NA,"2023-11-05",40
+NA,2023-11-06,NA,NA,NA,NA,"2023-11-06",50.6
+NA,2023-11-07,NA,NA,NA,NA,"2023-11-07",19.7
+NA,2023-11-08,NA,NA,NA,NA,"2023-11-08",70.1
+NA,2023-11-09,NA,NA,NA,NA,"2023-11-09",98.4
+NA,2023-11-10,NA,NA,NA,NA,"2023-11-10",100
+NA,2023-11-11,NA,NA,NA,NA,"2023-11-11",99.9
+NA,2023-11-12,NA,NA,NA,NA,"2023-11-12",97.6
+NA,2023-11-13,NA,NA,NA,NA,"2023-11-13",97.6
+NA,2023-11-14,NA,NA,NA,NA,"2023-11-14",38.6
+NA,2023-11-15,NA,NA,NA,NA,"2023-11-15",2.3
+NA,2023-11-16,NA,NA,NA,NA,"2023-11-16",52.9
+NA,2023-11-17,NA,NA,NA,NA,"2023-11-17",60.5
+NA,2023-11-18,NA,NA,NA,NA,"2023-11-18",94
+NA,2023-11-19,NA,NA,NA,NA,"2023-11-19",88.1
+NA,2023-11-20,NA,NA,NA,NA,"2023-11-20",59.7
+NA,2023-11-21,NA,NA,NA,NA,"2023-11-21",57.3
+NA,2023-11-22,NA,NA,NA,NA,"2023-11-22",7
+NA,2023-11-23,NA,NA,NA,NA,"2023-11-23",51.3
+NA,2023-11-24,NA,NA,NA,NA,"2023-11-24",13.9
+NA,2023-11-25,NA,NA,NA,NA,"2023-11-25",84.5
+NA,2023-11-26,NA,NA,NA,NA,"2023-11-26",54.6
+NA,2023-11-27,NA,NA,NA,NA,"2023-11-27",35.4
+NA,2023-11-28,NA,NA,NA,NA,"2023-11-28",52.8
+NA,2023-11-29,NA,NA,NA,NA,"2023-11-29",86.2
+NA,2023-11-30,NA,NA,NA,NA,"2023-11-30",70.6
+NA,2023-12-01,NA,NA,NA,NA,"2023-12-01",15.7
+NA,2023-12-05,NA,NA,NA,NA,"2023-12-05",5.2
+NA,2023-12-07,NA,NA,NA,NA,"2023-12-07",59.8
+NA,2023-12-08,NA,NA,NA,NA,"2023-12-08",71.8
+NA,2023-12-09,NA,NA,NA,NA,"2023-12-09",60.4
+NA,2023-12-10,NA,NA,NA,NA,"2023-12-10",1.9
+NA,2023-12-11,NA,NA,NA,NA,"2023-12-11",3
+NA,2023-12-12,NA,NA,NA,NA,"2023-12-12",47.6
+NA,2023-12-16,NA,NA,NA,NA,"2023-12-16",2.1
+NA,2023-12-24,NA,NA,NA,NA,"2023-12-24",58
+NA,2023-12-26,NA,NA,NA,NA,"2023-12-26",14.2
+NA,2023-12-27,NA,NA,NA,NA,"2023-12-27",3.7
+NA,2023-12-28,NA,NA,NA,NA,"2023-12-28",5.9
+NA,2023-12-29,NA,NA,NA,NA,"2023-12-29",2.7
+NA,2023-12-30,NA,NA,NA,NA,"2023-12-30",3
+NA,2023-12-31,NA,NA,NA,NA,"2023-12-31",7.6
+NA,2024-01-03,NA,NA,NA,NA,"2024-01-03",99.6
+NA,2024-01-04,NA,NA,NA,NA,"2024-01-04",82.7
+NA,2024-01-05,NA,NA,NA,NA,"2024-01-05",47.5
+NA,2024-01-08,NA,NA,NA,NA,"2024-01-08",85.5
+NA,2024-01-09,NA,NA,NA,NA,"2024-01-09",5.7
+NA,2024-01-10,NA,NA,NA,NA,"2024-01-10",5.9
+NA,2024-01-13,NA,NA,NA,NA,"2024-01-13",15.9
+NA,2024-01-14,NA,NA,NA,NA,"2024-01-14",92.8
+NA,2024-01-15,NA,NA,NA,NA,"2024-01-15",85.4
+NA,2024-01-16,NA,NA,NA,NA,"2024-01-16",4.7
+NA,2024-01-17,NA,NA,NA,NA,"2024-01-17",13.6
+NA,2024-01-18,NA,NA,NA,NA,"2024-01-18",18.3
+NA,2024-01-20,NA,NA,NA,NA,"2024-01-20",41.8
+NA,2024-01-21,NA,NA,NA,NA,"2024-01-21",100
+NA,2024-01-22,NA,NA,NA,NA,"2024-01-22",100
+NA,2024-01-23,NA,NA,NA,NA,"2024-01-23",100
+NA,2024-01-24,NA,NA,NA,NA,"2024-01-24",99.9
+NA,2024-01-25,NA,NA,NA,NA,"2024-01-25",70.1
+NA,2024-01-27,NA,NA,NA,NA,"2024-01-27",46.8
+NA,2024-02-01,NA,NA,NA,NA,"2024-02-01",23.4
+NA,2024-02-14,NA,NA,NA,NA,"2024-02-14",47.8
+NA,2024-02-18,NA,NA,NA,NA,"2024-02-18",18.9
+NA,2024-03-01,NA,NA,NA,NA,"2024-03-01",48.4
+NA,2024-03-03,NA,NA,NA,NA,"2024-03-03",79.5
+NA,2024-04-09,NA,NA,NA,NA,"2024-04-09",90.7
+NA,2024-04-10,NA,NA,NA,NA,"2024-04-10",58.8
+NA,2024-04-21,NA,NA,NA,NA,"2024-04-21",63.8
+NA,2024-04-27,NA,NA,NA,NA,"2024-04-27",95.4
+NA,2024-04-28,NA,NA,NA,NA,"2024-04-28",84.8
+NA,2024-05-05,NA,NA,NA,NA,"2024-05-05",76.9
+NA,2024-05-18,NA,NA,NA,NA,"2024-05-18",27.3
+NA,2024-05-23,NA,NA,NA,NA,"2024-05-23",69.6
+NA,2024-05-24,NA,NA,NA,NA,"2024-05-24",80
+NA,2024-05-27,NA,NA,NA,NA,"2024-05-27",53.5
+NA,2024-05-29,NA,NA,NA,NA,"2024-05-29",38.1
+NA,2024-06-20,NA,NA,NA,NA,"2024-06-20",79.9
+NA,2024-06-29,NA,NA,NA,NA,"2024-06-29",58.7
+NA,2024-06-30,NA,NA,NA,NA,"2024-06-30",52
+NA,2024-07-01,NA,NA,NA,NA,"2024-07-01",7.9
