@@ -1,6 +1,6 @@
 # R-Folder
 
-Welcome to my R-Folder! This repository is a collection of all my projects, experiments, and adventures in R, from exploring bat behavior to diving into statistical analyses.
+Welcome to my R Folder! This repository is a collection of all my projects, experiments, and adventures in R, from exploring bat behavior to diving into statistical analyses.
 
 ## What's Inside
 ### Files and Folders:
